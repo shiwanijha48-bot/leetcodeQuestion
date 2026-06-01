@@ -10,3 +10,4 @@ class Solution:
         for num in nums:
             res = min(res, sum_of_digit(num))
         return res
+ 
