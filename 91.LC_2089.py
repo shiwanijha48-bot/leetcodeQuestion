@@ -6,3 +6,4 @@ class Solution:
             if nums[i] == target:
                 res.append(i)
         return res
+ 
