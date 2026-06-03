@@ -11,3 +11,4 @@ class Solution:
         for i in freq:
             res += int(i)* freq[i]
         return res
+
