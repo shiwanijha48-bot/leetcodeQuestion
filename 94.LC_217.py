@@ -1,9 +1,9 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        return len(nums) != len(set(nums))
+        return len(nums) != len(set(nums))      # Method 1
 
 
-        '''setnums = set()
+        '''setnums = set()           # Method 2
         for i in nums:
             if i in setnums:
                 return True
@@ -12,7 +12,7 @@ class Solution:
         return False'''
 
 
-        '''freq = {}
+        '''freq = {}           # Method 3
         for i in nums:
             freq[i] = freq.get(i,0) + 1
             # if i in freq:
