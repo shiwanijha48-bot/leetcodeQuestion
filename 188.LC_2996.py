@@ -10,6 +10,9 @@ class Solution:
             total += 1
         return total
 
+
+
+
 '''
 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 Solved
