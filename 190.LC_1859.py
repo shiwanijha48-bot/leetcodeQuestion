@@ -8,9 +8,10 @@ class Solution:
             res[x-1] = i[:-1] # x-1 as res is 0th index, but numbers given at last of words starts from 1
             # i[:-1] start se last letter ko chorkar sab
         return " ".join(res)
-
 # Time: O(n)
 # Space: O(n)
+
+
 
 '''
 1859. Sorting the Sentence
