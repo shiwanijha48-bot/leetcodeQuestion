@@ -12,7 +12,6 @@ class Solution:
 # Space: O(n)
 
 
-
 '''
 1859. Sorting the Sentence
 Solved
