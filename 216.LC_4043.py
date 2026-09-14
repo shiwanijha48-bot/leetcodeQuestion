@@ -12,7 +12,6 @@ class Solution:
                 ans += 1
         return ans
 
-
 '''
 4043. Count Rotations With Exactly K Equal Adjacent Pairs
 Solved
