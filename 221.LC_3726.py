@@ -3,6 +3,7 @@ class Solution:
         s = str(n).replace("0", "")
         return int(s)
 
+
 '''
 3726. Remove Zeros in Decimal Representation
 Solved
