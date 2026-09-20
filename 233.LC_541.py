@@ -11,9 +11,7 @@ class Solution:
                 r -= 1
         return "".join(s)
 
-# r
-
-# should be the last index of the first k characters, but it must not go outside the string.
+# r should be the last index of the first k characters, but it must not go outside the string.
 
 '''
 541. Reverse String II
