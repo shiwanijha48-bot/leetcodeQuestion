@@ -6,7 +6,6 @@ class Solution:
                 count += 1
         return count
 
-
 '''
 3190. Find Minimum Operations to Make All Elements Divisible by Three
 Solved
