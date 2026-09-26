@@ -96,30 +96,6 @@ The purpose of maintaining this repository is to:
 
 ---
 
-# 🌟 Repository Link
-
-Repository Link:
-
-https://github.com/shiwanijha48-bot/leetcodeQuestion
-
-If you find this repository useful, consider giving it a ⭐ star.
-
----
-
-# 🤝 Contributions
-
-Contributions are welcome!
-
-If you want to:
-
-* Improve solutions
-* Add better approaches
-* Fix bugs
-* Enhance code readability
-
-Feel free to fork the repository and create a pull request.
-
----
 
 # 👩‍💻 Author
 
@@ -129,13 +105,6 @@ GitHub Profile:
 https://github.com/shiwanijha48-bot
 
 ---
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
 # 💡 Happy Coding!
 
 Keep learning, keep solving, and keep growing 🚀
