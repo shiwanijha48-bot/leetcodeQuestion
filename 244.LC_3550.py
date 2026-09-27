@@ -9,6 +9,7 @@ class Solution:
             if digit_sum == i:
                 return i
         return -1
+        
 
 '''
 3550. Smallest Index With Digit Sum Equal to Index
