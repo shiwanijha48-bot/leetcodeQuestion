@@ -11,6 +11,7 @@ class Solution:
         return -1
         
 
+
 '''
 3550. Smallest Index With Digit Sum Equal to Index
 Solved
