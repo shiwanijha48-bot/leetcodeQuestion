@@ -6,7 +6,6 @@ class Solution:
                 count += 1
         return count
 
-
 '''
 2798. Number of Employees Who Met the Target
 Solved
