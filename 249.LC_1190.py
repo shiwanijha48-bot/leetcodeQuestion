@@ -12,6 +12,7 @@ class Solution:
             else:
                 curr += i # add normal char
         return curr # res without brackets
+        
 
 '''
 1190. Reverse Substrings Between Each Pair of Parentheses
