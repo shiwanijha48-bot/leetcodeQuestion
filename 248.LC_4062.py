@@ -6,11 +6,6 @@ class Solution:
 
 
 '''
-
-Code
-Testcase
-Testcase
-Test Result
 4062. Transform Array Using Pair Operations
 Solved
 Medium
