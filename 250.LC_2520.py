@@ -9,7 +9,6 @@ class Solution:
             num //= 10
         return count
 
-
 '''
 2520. Count the Digits That Divide a Number
 Solved
