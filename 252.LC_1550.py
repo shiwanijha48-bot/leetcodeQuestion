@@ -10,7 +10,6 @@ class Solution:
                 count = 0
         return False
 
-
 '''
 1550. Three Consecutive Odds
 Solved
