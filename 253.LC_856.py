@@ -9,8 +9,6 @@ class Solution:
                 score = max(2 * inside, 1)  # Add score to the previous level
                 stack[-1] += score
         return stack[0]
-
-
 '''
 856. Score of Parentheses
 Solved
