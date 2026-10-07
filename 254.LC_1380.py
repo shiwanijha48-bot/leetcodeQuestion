@@ -9,8 +9,6 @@ class Solution:
             if mini == maxi: # min of row is max of col?
                 ans.append(mini)
         return ans
-
-
 '''
 1380. Lucky Numbers in a Matrix
 Solved
