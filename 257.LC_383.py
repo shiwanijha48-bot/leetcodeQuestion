@@ -8,7 +8,6 @@ class Solution:
                 return False
             freq[ch] -= 1
         return True 
-
 '''
 383. Ransom Note
 Solved
