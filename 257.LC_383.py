@@ -7,7 +7,8 @@ class Solution:
             if freq.get(ch, 0) == 0:
                 return False
             freq[ch] -= 1
-        return True 
+        return True
+        
 '''
 383. Ransom Note
 Solved
