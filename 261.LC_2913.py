@@ -10,6 +10,8 @@ class Solution:
                 ans += count*count # add its sq to ans
         return ans # final sum
 
+
+
 '''
 2913. Subarrays Distinct Element Sum of Squares I
 Solved
