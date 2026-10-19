@@ -5,8 +5,7 @@ class Solution:
             n //= 5 # Count multiples of 5, 25, 125, etc.
             count += n # Add the number of factors of 5
         return count
-
-  '''
+ '''
 172. Factorial Trailing Zeroes
 Solved
 Medium
@@ -17,7 +16,6 @@ Given an integer n, return the number of trailing zeroes in n!.
 
 Note that n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1.
 
- 
 
 Example 1:
 
